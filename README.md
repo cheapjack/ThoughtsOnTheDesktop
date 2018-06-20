@@ -2,6 +2,8 @@
 
 ### Saturday 23rd June, Neuromuscular Centre, Winsford
 
+![Firstprint](images/firstprint.png)
+
 ![No Of Participants](https://img.shields.io/badge/participants%20estimate-12-brightgreen.svg)
 
 Make files, code and documentation for the **Thoughts on the Desktop** project an introduction to 3D prototyping for the Neuromuscular Centre's co-working space and design services.
